@@ -19,6 +19,25 @@ nav_order: 3
       </div>
       <div class="col-sm-2 text-left text-sm-right">
         <span class="badge font-weight-bold blue darken-1 text-uppercase align-middle">
+            2024.01
+        </span>
+      </div>
+    </div>
+    <h6 class="font-italic mt-2 mt-sm-0">2024.01: Forum on Differential Geometry.</h6>
+    <ul class="card-text font-weight-light list-group list-group-flush">
+      <li class="list-group-item">○ Shanghai Center for Mathematical Sciences, China.</li>
+    </ul>
+  </div>
+</div>
+
+<div class="card mt-3">
+  <div class="p-3">
+    <div class="row">
+      <div class="col-sm-10">
+        <h5 class="font-weight-bold">Free boundary minimal hypersurfaces in locally wedge-shaped manifolds.</h5>
+      </div>
+      <div class="col-sm-2 text-left text-sm-right">
+        <span class="badge font-weight-bold blue darken-1 text-uppercase align-middle">
             2023.10
         </span>
       </div>
