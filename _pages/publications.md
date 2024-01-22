@@ -23,6 +23,6 @@ nav_order: 1
 
 
 <h3 class="year">{{2023}}</h3>
-{% bibliography -f preprints -q @*[year={{2023}}]* %}
+{% bibliography -f preprints %}
 
 </div>
