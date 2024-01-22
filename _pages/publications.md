@@ -13,15 +13,16 @@ nav_order: 1
 <h2>Journal Articles</h2>
 
 {%- for y in page.years %}
-  <h2 class="year">{{y}}</h2>
+  <h3 class="year">{{y}}</h3>
   {% bibliography -f papers -q @*[year={{y}}]* %}
 {% endfor %}
 
 
+
 <h2>Preprints</h2>
 
-{%- for y in page.years %}
-  <h2 class="year">{{y}}</h2>
+{%- for y in [2023] %}
+  <h3 class="year">{{y}}</h3>
   {% bibliography -f preprints -q @*[year={{y}}]* %}
 {% endfor %}
 
