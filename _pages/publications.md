@@ -21,9 +21,8 @@ nav_order: 1
 
 <h2>Preprints</h2>
 
-{%- for y in ["2023"] %}
-  <h3 class="year">{{y}}</h3>
-  {% bibliography -f preprints -q @*[year={{y}}]* %}
-{% endfor %}
+
+<h3 class="year">{{2023}}</h3>
+{% bibliography -f preprints -q @*[year={{2023}}]* %}
 
 </div>
