@@ -19,4 +19,6 @@ nav_order: 1
 
 
 <h2 class="publications">Preprints</h2>
-{% bibliography -f preprints %}
+{%- for y in page.years %}
+{% bibliography -f preprints -q @*[year={{y}}]*%}
+{% endfor %}
