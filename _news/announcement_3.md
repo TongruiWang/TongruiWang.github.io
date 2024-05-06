@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I'm moving to Shanghai Jiao Tong University as a Tenure-track Associate Professor in this summer. 
+I will join Shanghai Jiao Tong University as a Tenure-track Associate Professor in this summer. 
