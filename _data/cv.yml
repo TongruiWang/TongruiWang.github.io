@@ -6,7 +6,7 @@
     - name: Full Name
       value: Tongrui Wang
     - name: E-mail
-      value: wangtongrui@westlake.edu.cn
+      value: wangtongrui@sjtu.edu.cn
     - name: Languages
       value: Chinese, English
 
@@ -43,9 +43,12 @@
 - title: Work Experience
   type: time_table
   contents:
+    - title: Tenure-track Associate Professor
+      institution: School of Mathematical Sciences, Shanghai Jiao Tong University
+      year: 2024 - Now
     - title: Postdoctoral Fellow
       institution: Institute for Theoretical Sciences, Westlake University
-      year: 2022 - Now
+      year: 2022 - 2024
     - title: Visiting Scholar
       institution: Cornell University
       year: 2023.02 - 2023.08
