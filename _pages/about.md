@@ -25,8 +25,6 @@ social: false  # includes social icons at the bottom of the page
 
 I'm a tenure-track associate professor in the [School of Mathematical Sciences](https://math.sjtu.edu.cn) at Shanghai Jiao Tong University. 
 
-[//]: <> I'm a postdoctor in the [Institute for Theoretical Sciences](https://its.westlake.edu.cn/index.htm) at Westlake University. 
-
 
 I received my Ph.D. from the Department of Mathematics at Nanjing University in June 2022 under the supervision of [Prof. Gang Tian](http://tian.bicmr.pku.edu.cn/index.htm). 
 
