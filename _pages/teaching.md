@@ -15,6 +15,44 @@ nav_order: 3
   <div class="p-3">
     <div class="row">
       <div class="col-sm-10">
+        <h5 class="font-weight-bold">Minimal surfaces of low genus in lens spaces.</h5>
+      </div>
+      <div class="col-sm-2 text-left text-sm-right">
+        <span class="badge font-weight-bold blue darken-1 text-uppercase align-middle">
+            2024.07
+        </span>
+      </div>
+    </div>
+    <h6 class="font-italic mt-2 mt-sm-0">2024.07: Workshop on Minimal Surfaces and Mean Curvature Flow 2024.</h6>
+    <ul class="card-text font-weight-light list-group list-group-flush">
+      <li class="list-group-item">○ Beijing International Center for Mathematical Research, China.</li>
+    </ul>
+  </div>
+</div>
+
+<div class="card mt-3">
+  <div class="p-3">
+    <div class="row">
+      <div class="col-sm-10">
+        <h5 class="font-weight-bold">Free boundary minimal hypersurfaces in locally wedge-shaped manifolds.</h5>
+      </div>
+      <div class="col-sm-2 text-left text-sm-right">
+        <span class="badge font-weight-bold blue darken-1 text-uppercase align-middle">
+            2024.06
+        </span>
+      </div>
+    </div>
+    <h6 class="font-italic mt-2 mt-sm-0">2024.06: Conference on Geometry and Nonlinear PDEs.</h6>
+    <ul class="card-text font-weight-light list-group list-group-flush">
+      <li class="list-group-item">○ Dongbei University of Finances and Economics, China.</li>
+    </ul>
+  </div>
+</div>
+
+<div class="card mt-3">
+  <div class="p-3">
+    <div class="row">
+      <div class="col-sm-10">
         <h5 class="font-weight-bold">Free boundary minimal hypersurfaces in locally wedge-shaped manifolds.</h5>
       </div>
       <div class="col-sm-2 text-left text-sm-right">
