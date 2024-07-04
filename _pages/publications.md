@@ -21,17 +21,17 @@ nav_order: 1
 
 
 <h2>Preprints</h2>
-{%- for y in page.prepyears %}
-  <h2 class="year">{{y}}</h2>
-  {% bibliography -f preprints -q @*[year={{y}}]* %}
+{%- for py in page.prepyears %}
+  <h2 class="year">{{py}}</h2>
+  {% bibliography -f preprints -q @*[year={{py}}]* %}
 {% endfor %}
 
 
 
 <h2>Surveys</h2>
-{%- for y in page.survyears %}
-  <h2 class="year">{{y}}</h2>
-  {% bibliography -f surveys -q @*[year={{y}}]* %}
+{%- for sy in page.survyears %}
+  <h2 class="year">{{sy}}</h2>
+  {% bibliography -f surveys -q @*[year={{sy}}]* %}
 {% endfor %}
 
 </div>
