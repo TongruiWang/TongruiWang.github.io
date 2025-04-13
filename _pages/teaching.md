@@ -19,6 +19,82 @@ nav_order: 3
       </div>
       <div class="col-sm-2 text-left text-sm-right">
         <span class="badge font-weight-bold blue darken-1 text-uppercase align-middle">
+            2024.12
+        </span>
+      </div>
+    </div>
+    <h6 class="font-italic mt-2 mt-sm-0">2024.12: The 9th Japan-China Geometry Conference.</h6>
+    <ul class="card-text font-weight-light list-group list-group-flush">
+      <li class="list-group-item">○ Tokushima, Japan.</li>
+    </ul>
+  </div>
+</div
+  
+<div class="card mt-3">
+  <div class="p-3">
+    <div class="row">
+      <div class="col-sm-10">
+        <h5 class="font-weight-bold">Minimal surfaces of low genus in lens spaces.</h5>
+      </div>
+      <div class="col-sm-2 text-left text-sm-right">
+        <span class="badge font-weight-bold blue darken-1 text-uppercase align-middle">
+            2024.11
+        </span>
+      </div>
+    </div>
+    <h6 class="font-italic mt-2 mt-sm-0">2024.11: Geometric Analysis Seminar.</h6>
+    <ul class="card-text font-weight-light list-group list-group-flush">
+      <li class="list-group-item">○ East China Normal University, Shanghai, China.</li>
+    </ul>
+  </div>
+</div
+  
+<div class="card mt-3">
+  <div class="p-3">
+    <div class="row">
+      <div class="col-sm-10">
+        <h5 class="font-weight-bold">Minimal surfaces of low genus in lens spaces.</h5>
+      </div>
+      <div class="col-sm-2 text-left text-sm-right">
+        <span class="badge font-weight-bold blue darken-1 text-uppercase align-middle">
+            2024.10
+        </span>
+      </div>
+    </div>
+    <h6 class="font-italic mt-2 mt-sm-0">2024.10: NJU-SJTU Geometric Analysis Seminar.</h6>
+    <ul class="card-text font-weight-light list-group list-group-flush">
+      <li class="list-group-item">○ Nanjing, China.</li>
+    </ul>
+  </div>
+</div
+  
+<div class="card mt-3">
+  <div class="p-3">
+    <div class="row">
+      <div class="col-sm-10">
+        <h5 class="font-weight-bold">Minimal surfaces of low genus in lens spaces.</h5>
+      </div>
+      <div class="col-sm-2 text-left text-sm-right">
+        <span class="badge font-weight-bold blue darken-1 text-uppercase align-middle">
+            2024.10
+        </span>
+      </div>
+    </div>
+    <h6 class="font-italic mt-2 mt-sm-0">2024.10: Seminar on minimal surfaces.</h6>
+    <ul class="card-text font-weight-light list-group list-group-flush">
+      <li class="list-group-item">○ Capital Normal University, Beijing, China.</li>
+    </ul>
+  </div>
+</div>
+
+<div class="card mt-3">
+  <div class="p-3">
+    <div class="row">
+      <div class="col-sm-10">
+        <h5 class="font-weight-bold">Minimal surfaces of low genus in lens spaces.</h5>
+      </div>
+      <div class="col-sm-2 text-left text-sm-right">
+        <span class="badge font-weight-bold blue darken-1 text-uppercase align-middle">
             2024.07
         </span>
       </div>
