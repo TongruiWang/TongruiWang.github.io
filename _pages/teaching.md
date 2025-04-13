@@ -28,7 +28,7 @@ nav_order: 3
       <li class="list-group-item">○ Tokushima, Japan.</li>
     </ul>
   </div>
-</div
+</div>
   
 <div class="card mt-3">
   <div class="p-3">
@@ -47,7 +47,7 @@ nav_order: 3
       <li class="list-group-item">○ East China Normal University, Shanghai, China.</li>
     </ul>
   </div>
-</div
+</div>
   
 <div class="card mt-3">
   <div class="p-3">
@@ -66,7 +66,7 @@ nav_order: 3
       <li class="list-group-item">○ Nanjing, China.</li>
     </ul>
   </div>
-</div
+</div>
   
 <div class="card mt-3">
   <div class="p-3">
