@@ -15,7 +15,9 @@ group :jekyll_plugins do
     gem 'jekyll-toc'
     gem 'jekyll-twitter-plugin'
     gem 'jemoji'
-    gem 'mini_racer'
+    install_if -> { !Gem.win_platform? } do
+        gem 'mini_racer'
+    end
     gem 'unicode_utils'
     gem 'webrick'
 end
