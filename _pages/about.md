@@ -22,7 +22,9 @@ social: false  # includes social icons at the bottom of the page
 
 👋
 
-I'm a tenure-track associate professor in [School of Mathematical Sciences](https://math.sjtu.edu.cn) at Shanghai Jiao Tong University.
+I'm a tenure-track associate professor in the [School of Mathematical Sciences](https://math.sjtu.edu.cn) at Shanghai Jiao Tong University.
+
+Prior to this, I was a postdoc at the [Institute for Theoretical Sciences](https://its.westlake.edu.cn), Westlake University, mentored by [Prof. Jiyuan Han](https://its.westlake.edu.cn/info/1108/1277.htm). I spent the Spring semester 2023 at Cornell University working under the guidence of [Prof. Xin Zhou](https://sites.google.com/cornell.edu/xinzhou).
 
 I received my Ph.D. from the Department of Mathematics at Nanjing University in June 2022 under the supervision of [Prof. Gang Tian](http://tian.bicmr.pku.edu.cn/index.htm).
 
