@@ -127,7 +127,11 @@
         {% assign entrytype_text = entrytype | strip_html | strip %}
         {%- capture periodical -%}{{ entrytype }}{%- if entrytype_text != "" and entryyear != "" -%}, {%- endif -%}{{ entrymonth }}{{ entryyear }}{%- endcapture -%}
         <div class="periodical">
-          {{ periodical | strip }}
+          {% if entry.pubstate == "forthcoming" %}
+            To appear in <em>{{ entry.journal }}</em>
+          {% else %}
+            {{ periodical | strip }}
+          {% endif %}
         </div>
         <div class="periodical">
           {{ entry.note | strip }}
@@ -202,7 +206,7 @@
               {% endif %}
               ></span>
             {%- endif %}
-            {%- if site.badges.dimensions_badge %}
+            {%- if site.badges.dimensions_badge and entry.hide_citations != "true" %}
               <span class="__dimensions_badge_embed__"
               {% if entry.doi %}
                 data-doi="{{ entry.doi }}"

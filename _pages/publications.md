@@ -13,6 +13,8 @@ nav_order: 1
 <div class="publications">
 
 <h2>Journal Articles</h2>
+<h3 class="publication-status">To appear</h3>
+{% bibliography -f forthcoming %}
 {%- for y in page.years %}
   <h2 class="year">{{y}}</h2>
   {% bibliography -f papers -q @*[year={{y}}]* %}
