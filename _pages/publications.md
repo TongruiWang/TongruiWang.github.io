@@ -12,7 +12,7 @@ nav_order: 1
 <!-- _pages/publications.md -->
 <div class="publications">
 
-<h2>Journal Articles</h2>
+<h2>Published &amp; Accepted Papers</h2>
 <h3 class="publication-status">To appear</h3>
 {% bibliography -f forthcoming %}
 {%- for y in page.years %}
